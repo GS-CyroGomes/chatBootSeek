@@ -1,3 +1,4 @@
-transformers
-huggingface_hub
-mysql-connector-python
+ctransformers>=0.2.27
+llama-cpp-python>=0.2.80
+huggingface_hub>=0.24.6
+mysql-connector-python>=8.4.0
